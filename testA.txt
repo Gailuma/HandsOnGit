@@ -1,3 +1,7 @@
 this is a test file for branch a
 
+
 Adding changes from first branch
+
+Some other changes to test file A
+
